@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listView", "listBox\listView.csproj", "{CF916C84-6769-45AC-A9EF-B2CD531C5222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan3", "Tuan3\Tuan3.csproj", "{8911AB10-7EE3-48E5-BFA5-A12864355991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF916C84-6769-45AC-A9EF-B2CD531C5222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF916C84-6769-45AC-A9EF-B2CD531C5222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF916C84-6769-45AC-A9EF-B2CD531C5222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF916C84-6769-45AC-A9EF-B2CD531C5222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8911AB10-7EE3-48E5-BFA5-A12864355991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8911AB10-7EE3-48E5-BFA5-A12864355991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8911AB10-7EE3-48E5-BFA5-A12864355991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8911AB10-7EE3-48E5-BFA5-A12864355991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA3B114-2788-4966-97D8-E1583201E8D1}
+	EndGlobalSection
+EndGlobal
